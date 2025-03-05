@@ -27,6 +27,4 @@ Testing:
 2) Reboot
 3) The LCD display should show the outout of the script once the NAS has completed a boot
 
-4) 
-
 
