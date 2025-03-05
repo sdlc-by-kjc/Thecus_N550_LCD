@@ -3,7 +3,7 @@ This repository contains some very simple scripts for controlling the LCD module
 
 My Thecus N5550 is running Ubuntu Mint as a seco0ndary NAS.  This distro runs well and allows me to utilize ZFS from the distribution.  The Thecus N5550 works fine as a lightweight secondary NAS.  My NAS is fully populatd with 4GB of RAM and 5 3TB drives.
 
-My solution is based on the excellent work that @ipilcher contributed.  I have modified his "test.c" program so that the PIC is no lnger referenced an so that there is no menu output.  My script simply writes a file that redirects into the "test.c" program to update the LCD screen of the Thecus N5550.  This works well to utilize the LCD screen for an at-a-glance idea of any issues that the NAS may be having.  It should be very essy for anyone to make changes for their own particular needs.
+My solution is based on the excellent work that @ipilcher contributed - https://github.com/ipilcher  I have modified his "test.c" program so that the PIC is no lnger referenced an so that there is no menu output.  My script simply writes a file that redirects into the "test.c" program to update the LCD screen of the Thecus N5550.  This works well to utilize the LCD screen for an at-a-glance idea of any issues that the NAS may be having.  It should be very essy for anyone to make changes for their own particular needs.
 
 This may woprk for other Thecus NAS that are also using the same LCD display and running any form of Linux.
 
