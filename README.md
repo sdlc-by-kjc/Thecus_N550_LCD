@@ -1,5 +1,5 @@
 # Thecus_N550_LCD
-This repository contains some very simple scripts for controlling the LCD module on the Thecus N5550.  I am not a developer per se, just someone who can make things work with some Perl scripting and determineation.
+This repository contains some very simple scripts for controlling the LCD module on the Thecus N5550.  I am not a developer per se, just someone who can make things work with some Perl scripting and determination.
 
 My Thecus N5550 is running Ubuntu Mint as a seco0ndary NAS.  This distro runs well and allows me to utilize ZFS from the distribution.  The Thecus N5550 works fine as a lightweight secondary NAS.  My NAS is fully populatd with 4GB of RAM and 5 3TB drives.
 
