@@ -1,0 +1,2 @@
+#  Add this entry to the root crontab to have the script run at boot
+@reboot /data/scripts/monitor.pl
